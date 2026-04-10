@@ -1,0 +1,4 @@
+Aurora Habitat|Habitat|78|2
+Helios Array|Solar Farm|85|2
+Verdant Dome|Greenhouse|94|2
+O2 Nexus|Oxygen Plant|86|1

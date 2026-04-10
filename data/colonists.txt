@@ -1,0 +1,6 @@
+#DAY=2
+Ava Stone|101|Engineer|96
+Noah Vega|102|Medic|92
+Mira Sol|103|Farmer|99
+Rex Arden|104|Technician|88
+Lena Frost|105|Scientist|94

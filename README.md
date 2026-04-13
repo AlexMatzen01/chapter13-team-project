@@ -20,8 +20,8 @@ I, Alex Matzen, will take responsibility for integrating all modules and ensurin
 | Member | Responsibility | Status |
 | :--- | :--- | :--- |
 | **Alex Matzen** | Integration Lead, Main system control, Debugging | ✅ Complete |
-| **Liam Dowell** | Colonist Manager (Class: `Colonist`) | ✅ Complete |
-| **Gage Boyd** | Resource Manager (Class: `Resource`) | ✅ Complete |
+| **Gage Boyd** | Colonist Manager (Class: `Colonist`) | ✅ Complete |
+| **Liam Dowell** | Resource Manager (Class: `Resource`) | ✅ Complete |
 | **Luke Bishop** | Structure Manager (Class: `Structure`) | ✅ Complete |
 | **Max Barlow** | Simulation Engine (Daily updates & logic) | ✅ Complete |
 | **Jacob Losey** | File Manager (File I/O system) | ✅ Complete |
